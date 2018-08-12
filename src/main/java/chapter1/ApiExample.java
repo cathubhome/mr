@@ -1,3 +1,5 @@
+package chapter1;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;
 import org.apache.hadoop.fs.FSDataOutputStream;
@@ -14,7 +16,7 @@ import java.io.InputStream;
  * Description: hadoop入门之mr api简单学习
  * Time:Create on 2018/8/9 22:53
  */
-public class Chapter1 {
+public class ApiExample {
 
 
     public static void main(String[] args) {
